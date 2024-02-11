@@ -1,0 +1,23 @@
+                                  Sushi
+                         -----------------------
+
+
+ 	Food Name 				           Price
+       -----------                                        ---------
+
+	1. Maki                                          250.00 BDT
+	2. Temaki                                        220.00 BDT
+	3. Uramaki                                       190.00 BDT
+	4. Sashimi                                       300.00 BDT
+	5. Nigiri                                        350.00 BDT
+	6. Fresh Water                                    15.00 BDT
+	7. Drinks                                         30.00 BDT
+	8. Sweets                                         90.00 BDT
+
+     --------------------------------------------------------------
+                                      Total         :  1,445.00 BDT
+                                      15% Vat & SC  :    216.75 BDT       
+                                   -------------------------------- 
+                                         Sub Total  :  1,661.75 BDT
+
+Chef : Jiro Ono

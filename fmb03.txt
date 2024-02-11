@@ -1,0 +1,21 @@
+                                 Gyoza
+                         -----------------------
+
+         Food Name 				          Price
+        -----------                                      ---------
+
+	1. Yaki Gyoza                                    500.00 BDT
+	2. Age Gyoza                                     300.00 BDT
+	3. Sul Gyoza                                     250.00 BDT
+	4. Sweets                                        160.00 BDT
+	5. Fresh Water                                    15.00 BDT
+	6. Drinks                                         30.00 BDT
+								   
+								   
+     --------------------------------------------------------------
+                                        Total       :  1,255.00 BDT
+                                      15% Vat & SC  :    188.25 BDT     
+                                   --------------------------------   
+                                          Sub Total :  1,443.25 BDT
+
+Chef : Harumi Kurihara

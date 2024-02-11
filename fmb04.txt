@@ -1,0 +1,25 @@
+                        	      Yakitori
+                               -----------------------
+
+     	      Food Name 				    Price
+             -----------                                  ---------
+
+	1. Ukito(whole chicken)                           650.00 BDT
+	2. Mune(chicken breast)                           150.00 BDT
+	3. Tsukune(chicken meatball)                      110.00 BDT
+	4. Reba(liver)                                     30.00 BDT
+	5. Tebamoto(chicken wing shoulder)                 90.00 BDT
+	6. Bonjiri(chicken tail)                           20.00 BDT
+	7. Seseri(chicken neck)                            15.00 BDT
+	8. Kawa(chicken skin)                              50.00 BDT
+	9. Fresh Water                                     15.00 BDT
+       10. Drinks                                          30.00 BDT
+       11. Sweets                                          60.00 BDT
+
+     ---------------------------------------------------------------
+                                      Total         :   1,220.00 BDT
+                                     15% Vat & SC   :     183.00 BDT    
+                                   ---------------------------------
+                                         Sub Total  :   1,403.00 BDT
+
+Chef : NOBU MATSUHISA

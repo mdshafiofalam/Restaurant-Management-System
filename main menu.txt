@@ -1,0 +1,12 @@
+                                  Main Menu
+                           -----------------------
+
+
+     	     Platter Name 			        Price
+            --------------                            ---------
+
+	      1. Sushi                               1,661.75 BDT
+	      2. Wagyu                               2,535.75 BDT
+	      3. Gyoza                               1,443.25 BDT
+	      4. Yakitori                            1,403.00 BDT   
+           
